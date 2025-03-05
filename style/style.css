@@ -1,0 +1,12 @@
+.flex{display: flex;
+justify-content: center;
+gap:50px;}
+
+.card-img-top{height: 200px;
+width: 250px;}
+
+#comp{background-color: rgba(127, 255, 212, 0.386);}
+
+#ber{background-color: rgba(237, 102, 242, 0.386);}
+
+#spor{background-color: rgba(240, 182, 135, 0.386);}
