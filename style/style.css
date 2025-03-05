@@ -17,4 +17,6 @@ width: 250px;}
 font-weight: bold;
 font-style: oblique;}
 
-h3{font-style: oblique;}
+h3{font-style: oblique;
+background-color: antiquewhite;
+width: fit-content;}
