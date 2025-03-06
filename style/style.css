@@ -5,11 +5,14 @@ gap:50px;}
 .card-img-top{height: 200px;
 width: 250px;}
 
-#comp{background-color: rgba(127, 255, 212, 0.386);}
+#comp{background: rgb(0,27,36);
+    background: linear-gradient(90deg, rgba(0,27,36,0.5775560224089635) 4%, rgba(9,100,121,0.241421568627451) 37%, rgba(0,212,255,0.1966036414565826) 99%);}
 
-#ber{background-color: rgba(237, 102, 242, 0.386);}
+#ber{background: rgb(0,27,36);
+    background: linear-gradient(90deg, rgba(0,27,36,0.5775560224089635) 4%, rgba(121,9,103,0.241421568627451) 37%, rgba(255,0,181,0.1966036414565826) 99%);}
 
-#spor{background-color: rgba(240, 182, 135, 0.386);}
+#spor{background: rgb(36,0,28);
+    background: linear-gradient(90deg, rgba(36,0,28,0.59156162464986) 4%, rgba(121,75,9,0.241421568627451) 37%, rgba(255,46,0,0.1966036414565826) 99%);}
 
 .footer{margin-top: 30px;}
 
